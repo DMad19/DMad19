@@ -4,10 +4,10 @@
 I'm a **Full Stack Developer** passionate about building **scalable backend systems** and **modern frontend applications**.  
 I specialize in **Java** and **JavaScript**, and love exploring **microservices, event-driven architecture, and distributed systems**.
 
-- 🔹 **Backend:** Java, Spring Boot, REST APIs, Microservices  
-- 🔹 **Frontend:** JavaScript, ReactJS 
-- 🔹 **Databases & Messaging:** SQL, Kafka, RabbitMQ  
-- 🔹 **Automation & DevOps:** Selenium, Docker  
+- **Backend:** Java, Spring Boot, REST APIs, Microservices  
+- **Frontend:** JavaScript, ReactJS 
+- **Databases & Messaging:** SQL, Kafka, RabbitMQ  
+- **Automation & DevOps:** Selenium, Docker  
 
 ---
 
